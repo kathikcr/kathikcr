@@ -76,10 +76,3 @@ Concurrent server built on `ThreadPoolExecutor` with a bounded queue and `Caller
   <a href="https://www.linkedin.com/in/karthik-cr"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>
   <a href="mailto:crkarthik2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<img alt="GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kathikcr&show_icons=true&theme=radical">
-<img alt="Top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathikcr&layout=compact&theme=radical">
